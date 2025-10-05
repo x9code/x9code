@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&height=60&pause=1000&color=00CFFF&color=FF5733&color=00F700&lines=Manual+Testing+%7C+Java+%7C+SQL;Exploring+Spring+Boot+%26+React;Passionate+about+Software+Quality+and+Automation;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&height=60&pause=1000&color=00CFFF&color=FF5733&color=00F700&lines=Manual+Testing+%7C+Java+%7C+SQL;Spring+Boot+%26+React;Software+Quality+and+Automation;" />
 </p>
 
 ---
