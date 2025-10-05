@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxxdjhtN29iMWV5d2tnanU2aWl6eXByOG94NGFuamMxMm5udXB2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
 </p>
 
 ## 🚀 About Me
@@ -37,14 +37,22 @@
 ---
 
 ## 🌟 Projects
-
-### 🏙️ [Smart City Management System](https://github.com/x9code/Smart_City)
-- Interactive system integrating **city services** like traffic, healthcare, and education on a map-based React interface.  
-- **Frontend:** React.js + Tailwind CSS  
-- **Backend:** Spring Boot (REST API)  
-- Used **Axios** for API calls and **Spring Controllers** for endpoint handling.
-
----
+<table align="center">
+  <tr aling="center">
+    <td width="50%">
+      <h2 align="center">SmartCity</h2>
+      <p align="center">
+        <a href="https://github.com/x9code/Smart_City" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p align="center">An Interactive system integrating city services like traffic, healthcare, and education on a map-based React interface</p>
+      <p align="center">Frontend: React.js + Tailwind CSS</p>
+      <p align="center">Backend: Spring Boot (REST API) </p>
+      <p align="center">Used Axios for API calls and Spring Controllers for endpoint handling</p>
+    </td>
+  </tr>
+</table>
 
 ### 🔐 [Online Crime Reporting System](https://github.com/x9code/OnlineCrimeReportingSystem)
 - Online platform for reporting crimes and incidents digitally.  
