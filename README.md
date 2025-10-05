@@ -36,7 +36,7 @@
 
 ## 🌟 Projects
 
-### 🏙️ [Smart City Management System](https://github.com/x9code/SmartCityManagementSystem)
+### 🏙️ [Smart City Management System](https://github.com/x9code/Smart_City)
 - Interactive system integrating **city services** like traffic, healthcare, and education on a map-based React interface.  
 - **Frontend:** React.js + Tailwind CSS  
 - **Backend:** Spring Boot (REST API)  
