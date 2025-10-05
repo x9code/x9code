@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar** (CGPA: 9.15 / 87%)  
+- 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
 - 🧪 Skilled in **Manual Testing, Test Case Design, Defect Reporting (Jira)**  
 - 💻 Proficient in **Java, SQL, and foundational front-end web development**  
 - 🔍 Interested in **Automation Testing and Backend Development**  
@@ -24,7 +24,7 @@
 ## 🛠️ Technical Skills
 - **Programming Languages:** Java  
 - **Databases:** Oracle SQL, MySQL, PostgreSQL  
-- **Testing:** Manual Testing  
+- **Testing:** Manual Testing, Java Selenium  
 - **Tools & IDEs:** Jira, Eclipse, IntelliJ IDEA, Visual Studio Code, Sublime Text  
 - **Web Technologies:** HTML, CSS, JavaScript, React (Basics)
 
@@ -48,26 +48,6 @@
 - Online platform for reporting crimes and incidents digitally.  
 - Built with **HTML, CSS, JavaScript, PHP, and MySQL**.  
 - Reduces paperwork and improves administrative response time.
-
----
-
-## 🎓 Education
-- **Master of Computer Application (MCA)** — Gandhi Engineering College, Bhubaneswar  
-  *Sept 2023 – June 2025 | CGPA: 9.15 (87%)*  
-- **Bachelor of Science (Physics)** — F.M Autonomous College, Balasore  
-  *Aug 2020 – May 2023 | 74.6%*  
-- **Class 12th (C.H.S.E)** — Jhadeswar +2 Sc. Residential College, Balasore  
-  *June 2018 – May 2020 | 87.5%*  
-- **Class 10th (B.S.E)** — C.M.U.B.P, Goliha  
-  *84.5%*
-
----
-
-## 💡 Soft Skills
-- Team Collaboration  
-- Adaptability  
-- Problem-Solving  
-- Video/Photo Editing  
 
 ---
 
