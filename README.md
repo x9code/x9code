@@ -74,10 +74,24 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-6753z/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contact.deepakrana.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/x9code"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deepak-6753z/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:contact.deepakrana.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/x9code">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/deepakrana430/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white">
+  </a>
 </p>
+
+
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat" alt="x9code" />
