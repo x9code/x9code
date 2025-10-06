@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Deepak Kumar Rana</h1>
-<h3 align="center">💻 MCA Graduate | Manual Testing & Java Enthusiast | SQL & Java Selenium Learner</h3>
+<h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) Tester | SQL & Java Learner</h3>
 
 ---
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&height=60&pause=1000&color=00CFFF&color=FF5733&color=00F700&lines=Manual+Testing+%7C+Java+%7C+SQL;Java+Selenium+%26+JIRA;Software+Testing+and+Automation;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=60&pause=1000&color=FF5733&color=00F700&color=00CFFF&color=DA70D6&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;" />
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
 
 ## 🚀 About Me
 - 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
-- 🧪 Skilled in **Manual Testing, Test Case Design, Defect Reporting (Jira)**  
+- 🧪 Skilled in **SDLC, STLC, Manual Testing, Test Case Design, API Testing**   
 - 💻 Proficient in **Java, SQL, and foundational front-end web development**  
 - 🔍 Interested in **Automation Testing and Backend Development**  
-- 🌱 Currently learning **Spring Boot, React, and REST API integration**  
-- ⚡ Belief: “Code can fail, but curiosity should never stop.”
+- 🌱 learning **Spring Boot, React, and REST API integration**  
 
 ---
 
