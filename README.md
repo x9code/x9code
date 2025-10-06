@@ -80,7 +80,7 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-6753z/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contact.deepakrana.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
+  <a href="contact.deepakrana.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/x9code"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
 
