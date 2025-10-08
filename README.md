@@ -80,9 +80,9 @@
   <a href="mailto:contact.deepakrana.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/x9code">
+  <!-- <a href="https://github.com/x9code">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/deepakrana430/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white">
   </a>
