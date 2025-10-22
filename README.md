@@ -18,7 +18,7 @@
 - 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
 - 🧠 Strong understanding of **SDLC, STLC, Test Case Design, and API Testing**
 - 💻 Skilled in **Java, Selenium, SQL**, and familiar with **front-end fundamentals**
-- 🌱 Currently exploring **Spring Boot, REST APIs, and React**
+- 🌱 Currently learning **Java Selenium, REST APIs, and Advanced Java**
 - 🎯 Goal: To build robust automated testing frameworks and scalable back-end systems
  
 
@@ -32,7 +32,7 @@
 - **Web Tech:** HTML, CSS, JavaScript, React (Basics)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,react,html,css,js,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres,html,css,js,git,github,idea,vscode" />
 </p>
 
 ---
@@ -54,11 +54,6 @@
     </td>
   </tr>
 </table>
-
-### 🔐 [Online Crime Reporting System](https://github.com/x9code/OnlineCrimeReportingSystem)
-- Online platform for reporting crimes and incidents digitally.  
-- Built with **HTML, CSS, JavaScript, PHP, and MySQL**.  
-- Reduces paperwork and improves administrative response time.
 
 ## 📊 GitHub Stats
 <p align="center">
