@@ -57,8 +57,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" width="48%" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight" />
-  <img height="160" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" />
+  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight" />
+  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=radical" alt="GitHub Streak" width="40%"/>
 </p>
 
 ## 🏆 GitHub Trophies
