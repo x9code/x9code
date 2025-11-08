@@ -10,9 +10,9 @@
 </p>
 
 
-<!-- <p align="center">
-  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxxdjhtN29iMWV5d2tnanU2aWl6eXByOG94NGFuamMxMm5udXB2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">
-</p> -->
+<p align="center">
+  <img src="https://files.catbox.moe/jqu4qq.gif" width="600" alt="Project demo">
+</p>
 
 ## 🚀 About Me
 - 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
