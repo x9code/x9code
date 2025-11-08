@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/jqu4qq.gif" width="600" alt="Project demo">
+  <img src="code.gif" width="600" alt="Project demo">
 </p>
 
 ## 🚀 About Me
