@@ -10,9 +10,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://files.catbox.moe/jqu4qq.gif" alt="developer coding" width="500"/>
-</p>
+</p> -->
 
 ## 🚀 About Me
 - 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
