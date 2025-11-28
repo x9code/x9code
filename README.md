@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Deepak Kumar Rana</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) Tester | SQL & Java Learner</h3>
 
 ---
