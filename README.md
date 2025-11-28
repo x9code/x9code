@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
 <h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) Tester | SQL & Java Learner</h3>
 
 ---
@@ -57,12 +57,16 @@
 </table>
 
 
-<!-- <datails>
- <summary align ="center">Spotify Playing 🎧</summary>
-  <a align ="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&redirect=true" target="_blank">
-    <img align ="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
+ <details open>
+  <summary>🎧 Spotify Playing</summary>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
+      alt="Spotify Now Playing"
+    />
   </a>
-</datails> -->
+</details>
+
 
 
 ## 📊 GitHub Stats
