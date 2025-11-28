@@ -55,6 +55,10 @@
     </td>
   </tr>
 </table>
+ <summary align ="center">Spotify Playing 🎧</summary>
+  <a align ="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&redirect=true" target="_blank">
+    <img align ="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
+  </a>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -67,7 +71,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=modern-lilac" alt="GitHub Activity Graph"/>
   </a>
 </p>
-## 🏆 GitHub Trophies
+##🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=x9code&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
