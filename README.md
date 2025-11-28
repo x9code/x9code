@@ -62,7 +62,11 @@
   <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" />
   <img height="160" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=radical" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=modern-lilac" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=x9code&theme=tokyonight&no-frame=true&row=1&column=4" />
