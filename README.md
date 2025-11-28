@@ -8,10 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;SQL+%7C+Spring+Boot+Learner" />
 </p>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=0047AB&style=plastic" alt="traitimtrongvag" height="25px" width="160px"/> 
-
-</p>
+<picture> <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!-- <p align="center">
   <img src="https://files.catbox.moe/jqu4qq.gif" alt="developer coding" width="500"/>
