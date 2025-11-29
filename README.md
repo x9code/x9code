@@ -16,7 +16,7 @@
 </p> -->
 
 ## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 🎓 MCA Graduate from **Gandhi Engineering College, Bhubaneswar**
+- 🎓 MCA Graduate from **GEC, Bhubaneswar**
 - 🧠 Strong understanding of **SDLC, STLC, Test Case Design, and API Testing**
 - 💻 Skilled in **Java, Selenium, SQL**, and familiar with **front-end fundamentals**
 - 🌱 Currently learning **Java Selenium, REST APIs, and Advanced Java**
@@ -30,8 +30,8 @@
 - **Automation:** Selenium, TestNG, Postman  
 - **Databases:** MySQL, Oracle SQL, PostgreSQL  
 - **Tools:** Jira, IntelliJ IDEA, Eclipse, VS Code  
-- **Web Tech:** HTML, CSS, JavaScript, React (Basics)
-
+- **Web Tech:** HTML, CSS, JavaScript,
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,postgres,html,css,js,git,github,idea,vscode" />
 </p>
@@ -56,19 +56,11 @@
   </tr>
 </table>
 
-
-
-
-
 <!-- <p align="right">
   <img src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg" 
        alt="snake animation" 
        width="400" />
 </p> -->
-
-
-
-
 
 ## 📊 GitHub Stats
 <p align="center">
