@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;SQL" />
 </p>
 
+<p align="center">
+  <img src="gifs/mygif.gif" width="400">
+</p>
+
+
 <picture> <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!-- <p align="center">
