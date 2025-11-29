@@ -76,6 +76,7 @@
   <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" />
   <img height="160" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=modern-lilac" alt="GitHub Activity Graph"/>
@@ -93,7 +94,7 @@
 
 
 <div align="center">
-  <h1 style="font-size: 1.4rem; font-weight: 400;">🎧 Spotify Playing</h1>
+  <h3 style="font-size: 100; font-weight: 300;">🎧 Spotify Playing</h3>
 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
     <img 
