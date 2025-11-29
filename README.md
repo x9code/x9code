@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
-<h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) Tester | SQL & Java Learner</h3>
+<h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) | SQL & Java </h3>
 
 ---
 
