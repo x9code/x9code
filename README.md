@@ -90,6 +90,20 @@
 
 
 ## 📫 Connect with Me
+
+
+<div align="center">
+  <h1 style="font-size: 1.4rem; font-weight: 400;">🎧 Spotify Playing</h1>
+
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
+      alt="Spotify Now Playing"
+      width="400"
+    />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-6753z/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
@@ -105,19 +119,6 @@
   </a>
 </p>
 </p>
-
-<div align="center">
-  <h1 style="font-size: 2.0rem; font-weight: 500;">🎧 Spotify Playing</h1>
-
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
-      alt="Spotify Now Playing"
-      width="400"
-    />
-  </a>
-</div>
-
 
 
 
