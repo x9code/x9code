@@ -57,15 +57,7 @@
 </table>
 
 
-<details open>
-  <summary><strong style="font-size: 1.3rem;">🎧 Spotify Playing</strong></summary>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
-      alt="Spotify Now Playing"
-    />
-  </a>
-</details>
+
 
 
 <!-- <p align="right">
@@ -112,10 +104,16 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white">
   </a>
 </p>
-
-
 </p>
-
+<details open>
+  <summary><strong style="font-size: 1.3rem;">🎧 Spotify Playing</strong></summary>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
+      alt="Spotify Now Playing"
+    />
+  </a>
+</details>
 
 
 <p align="center">
