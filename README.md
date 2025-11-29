@@ -57,8 +57,8 @@
 </table>
 
 
- <details open>
-  <summary>🎧 Spotify Playing</summary>
+<details open>
+  <summary><strong style="font-size: 1.3rem;">🎧 Spotify Playing</strong></summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
@@ -66,6 +66,7 @@
     />
   </a>
 </details>
+
 
 <!-- <p align="right">
   <img src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg" 
