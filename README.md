@@ -107,14 +107,17 @@
 </p>
 
 <div align="center">
-  <h2><strong>🎧 Spotify Playing</strong></h2>
+  <h1 style="font-size: 2.0rem; font-weight: 500;">🎧 Spotify Playing</h1>
+
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
       alt="Spotify Now Playing"
+      width="400"
     />
   </a>
 </div>
+
 
 
 
