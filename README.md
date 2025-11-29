@@ -92,7 +92,7 @@
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
       alt="Spotify Now Playing"
-      width="400"
+      width="300"
     />
   </a>
 </div>
