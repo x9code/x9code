@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="gifs/snaplytics_converted_gif (1).gif" width="900">
+  <img src="gifs/snaplytics_converted_gif (1).gif" width="800">
 </p>
 
 
