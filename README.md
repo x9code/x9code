@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
 <h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) | SQL & Java </h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 <!-- Typing SVG -->
 <p align="center">
@@ -119,7 +119,7 @@
 </p>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat" alt="x9code" />
