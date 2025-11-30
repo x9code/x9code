@@ -70,8 +70,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight" />
-  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" />
+  <!-- <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight" />
+  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" /> -->
   <img height="160" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -119,9 +119,9 @@
 </p>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat" alt="x9code" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
