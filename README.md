@@ -11,7 +11,7 @@
 
 <div>
 <p align="center">
-  <img src="gifs/snaplytics_converted_gif (1).gif" width="800">
+  <img src="gifs/coding.gif" width="800">
 </p>
 </div>
 
