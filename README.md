@@ -15,7 +15,7 @@
 
 <div>
 <p align="center">
-  <img src="gifs/coding.gif" width="500">
+  <img src="gifs/coding.gif" width="100">
 </p>
 </div>
 
