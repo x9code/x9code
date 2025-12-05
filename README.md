@@ -26,11 +26,11 @@
 </p> -->
 
 ## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 🎓 MCA Graduate from **GEC, Bhubaneswar**
+<!-- 🎓 MCA Graduate from **GEC, Bhubaneswar**
 - 🧠 Strong understanding of **SDLC, STLC, Test Case Design, and API Testing**
 - 💻 Skilled in **Java, Selenium, SQL**, and familiar with **front-end fundamentals**
 - 🌱 Currently learning **Java Selenium, REST APIs, and Advanced Java**
-- 🎯 Goal: To build robust automated testing frameworks and scalable back-end systems
+- 🎯 Goal: To build robust automated testing frameworks and scalable back-end systems-->
  
 
 ---
