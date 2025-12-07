@@ -14,7 +14,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
   
-  [![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fx9code&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fx9code)
+<!--  [![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fx9code&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fx9code)-->
 
   
 </div>
@@ -186,7 +186,7 @@ Manual Testing        ███████████████████�
 
 ---
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
 
 <picture>
@@ -195,7 +195,7 @@ Manual Testing        ███████████████████�
   ![Snake Animation](https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake-dark.svg)
 </picture>
 
-
+-->
 
 ---
 
@@ -240,47 +240,7 @@ current_goals = {
 }
 ```
 
----
 
-## 📝 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<details>
-<summary>📌 Note: Setting up Recent Activity</summary>
-<br>
-
-To enable recent activity updates:
-
-1. Create `.github/workflows/update-readme.yml`
-2. Add this code:
-
-```yaml
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. The activity list will auto-update between the comments in your README
-
-</details>
-
----
 
 ## 💬 Random Dev Quote
 
