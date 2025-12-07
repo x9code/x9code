@@ -193,46 +193,7 @@ Manual Testing        ███████████████████�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg">
 </picture>
 
-<details>
-<summary>📌 Note: Setting up Snake Animation</summary>
-<br>
 
-To enable the snake animation, you need to set up a GitHub Action:
-
-1. Create `.github/workflows/snake.yml` in your repository
-2. Add the following code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: x9code
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Enable GitHub Pages from the `output` branch
-4. Run the workflow manually once from Actions tab
-
-</details>
 
 ---
 
