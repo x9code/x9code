@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20Kuamr%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🔍%20Software%20Tester%20|%20🤖%20Automation%20Engineer&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Deepak%20Kumar%20Rana&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🔍%20Software%20Tester%20|%20🤖%20Automation%20Engineer&reversal=false&textBg=false&fontColor=000000&descAlign=50&descAlignY=55"/>
 </div>
 <div align="center">
   
  <!-- <h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
   
-  ### 🔍 Software Tester | 🤖 Automation Engineer | 💻 MCA Graduate
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+  ### 🔍 Software Tester | 🤖 Automation Engineer | 💻 MCA Graduate-->
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Breaking+Things+Since+Day+One+💥;Quality+is+not+an+act%2C+it's+a+habit+✨;Automating+the+Boring+Stuff+🚀;Java+%7C+Selenium+%7C+TestNG+%7C+SQL;Building+Robust+Test+Frameworks+⚡" alt="Typing SVG" />
   
   <br>
@@ -16,6 +16,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakrana430/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
+  
   
 </div>
 
@@ -119,8 +120,10 @@ public class Deepak extends SoftwareTester {
       <h3 align="center">🧪 Test Automation Framework</h3>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Coming%20Soon-00D9FF?style=for-the-badge" alt="Coming Soon"/>
-      </p>
+        <a  href="https://github.com/x9code/HybridAutomationFramework" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+        </p>
       <p align="center">
         A comprehensive automation framework built with Java, Selenium, and TestNG, featuring data-driven testing, parallel execution, and detailed reporting capabilities.
       </p>
@@ -128,8 +131,7 @@ public class Deepak extends SoftwareTester {
         <strong>Features:</strong><br>
         ✅ Page Object Model (POM)<br>
         ✅ TestNG Integration<br>
-        ✅ Extent Reports<br>
-        ✅ Cross-browser Testing
+        ✅ Listeners<br>
       </p>
     </td>
   </tr>
