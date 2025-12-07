@@ -13,6 +13,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakrana430/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
+  
   [![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fx9code&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fx9code)
 
   
@@ -186,12 +187,12 @@ Manual Testing        ███████████████████�
 ---
 
 ## 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake-dark.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg">
+  ![Snake Animation](https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake-dark.svg)
 </picture>
 
 
