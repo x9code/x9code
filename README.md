@@ -1,131 +1,237 @@
-<!-- Profile Header -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
-<h3 align="center">💻 MCA Graduate | Manual & Automation(Java Selenium) | SQL & Java </h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Software+Tester;Automation+Tester;Java+%7C+Selenium+%7C+TestNG;API+Testing+%7C+Postman;SQL" />
-</p>
-
-<!--[![committers.top badge](https://user-badge.committers.top/india_private/x9code.svg)](https://user-badge.committers.top/india_private/x9code)-->
-
-
-
-<div>
-<p align="center">
-  <img src="gifs/coding.gif" width="600">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  # 👋 Hey there! I'm Deepak
+  
+  ### 🔍 Software Tester | 🤖 Automation Engineer | 💻 MCA Graduate
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Breaking+Things+Since+Day+One+💥;Quality+is+not+an+act%2C+it's+a+habit+✨;Automating+the+Boring+Stuff+🚀;Java+%7C+Selenium+%7C+TestNG+%7C+SQL;Building+Robust+Test+Frameworks+⚡" alt="Typing SVG" />
+  
+  <br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-6753z/)
+  [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.deepakrana.work@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakrana430/)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
+  
 </div>
 
-<picture> <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+---
 
-<!-- <p align="center">
-  <img src="https://files.catbox.moe/jqu4qq.gif" alt="developer coding" width="500"/>
-</p> -->
+## 🚀 About Me
 
-## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<!-- 🎓 MCA Graduate from **GEC, Bhubaneswar**
-- 🧠 Strong understanding of **SDLC, STLC, Test Case Design, and API Testing**
-- 💻 Skilled in **Java, Selenium, SQL**, and familiar with **front-end fundamentals**
-- 🌱 Currently learning **Java Selenium, REST APIs, and Advanced Java**
-- 🎯 Goal: To build robust automated testing frameworks and scalable back-end systems-->
- 
+<img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+
+```java
+public class Deepak extends SoftwareTester {
+    
+    private String[] skills = {
+        "Manual Testing", 
+        "Automation Testing",
+        "API Testing",
+        "Test Framework Design"
+    };
+    
+    private String currentFocus = "Building Scalable Test Automation";
+    private String funFact = "I find bugs before they find users! 🐛";
+    
+    public void dailyRoutine() {
+        writeTestCases();
+        automateEverything();
+        breakTheApplication();
+        reportBugs();
+        drinkCoffee();
+        repeat();
+    }
+}
+```
+
+🎓 **MCA Graduate** with a passion for quality assurance and test automation  
+🧪 Expertise in **Manual & Automation Testing** with hands-on experience in real-world projects  
+🎯 Specialized in **Java Selenium**, **TestNG**, **API Testing**, and **SQL**  
+💡 Strong foundation in **SDLC**, **STLC**, **Test Case Design**, and **Defect Management**  
+🌱 Currently mastering **Advanced Test Frameworks**, **CI/CD Integration**, and **Performance Testing**  
 
 ---
 
-### 🧩 Languages & Tools
-- **Languages:** Java, SQL  
-- **Automation:** Selenium, TestNG, Postman  
-- **Databases:** MySQL, Oracle SQL, PostgreSQL  
-- **Tools:** Jira, IntelliJ IDEA, Eclipse, VS Code  
-- **Web Tech:** HTML, CSS, JavaScript,
-  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgres,html,css,js,git,github,idea,vscode" />
-</p>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DC143C?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 🌟 Projects
-<table align="center">
-  <tr aling="center">
-    <td width="50%">
-      <h2 align="center">SmartCity</h2>
+## 💼 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ SmartCity Platform</h3>
+      <br>
       <p align="center">
         <a href="https://github.com/x9code/Smart_City" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
       </p>
-      <p align="center">An Interactive system integrating city services like traffic, healthcare, and education on a map-based React interface</p>
-      <p align="center">Frontend: React.js + Tailwind CSS</p>
-      <p align="center">Backend: Spring Boot (REST API) </p>
-      <p align="center">Used Axios for API calls and Spring Controllers for endpoint handling</p>
+      <p align="center">
+        An innovative system that integrates essential city services including traffic management, healthcare facilities, and educational institutions through an interactive map-based interface.
+      </p>
+      <p align="center">
+        <strong>Tech Stack:</strong><br>
+        🎨 Frontend: React.js + Tailwind CSS<br>
+        ⚙️ Backend: Spring Boot REST API<br>
+        🔗 Integration: Axios + Spring Controllers
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧪 Test Automation Framework</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Coming%20Soon-00D9FF?style=for-the-badge" alt="Coming Soon"/>
+      </p>
+      <p align="center">
+        A comprehensive automation framework built with Java, Selenium, and TestNG, featuring data-driven testing, parallel execution, and detailed reporting capabilities.
+      </p>
+      <p align="center">
+        <strong>Features:</strong><br>
+        ✅ Page Object Model (POM)<br>
+        ✅ TestNG Integration<br>
+        ✅ Extent Reports<br>
+        ✅ Cross-browser Testing
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- <p align="right">
-  <img src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg" 
-       alt="snake animation" 
-       width="400" />
-</p> -->
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <!-- <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight" />
-  <img height="160" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight" /> -->
-  <img height="160" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=modern-lilac" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x9code&theme=tokyonight&no-frame=true&row=1&column=4" />
-</p>
-
-
-## 📫 Connect with Me
-
+## 📊 GitHub Analytics
 
 <div align="center">
-  <h3 style="font-size: 100; font-weight: 300;">🎧 Spotify Playing</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=x9code&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem" 
-      alt="Spotify Now Playing"
-      width="300"
-    />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
   </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepak-6753z/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:contact.deepakrana.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
-  </a>
-  <!-- <a href="https://github.com/x9code">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
-  </a> -->
-  <a href="https://www.instagram.com/deepakrana430/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white">
-  </a>
-</p>
-</p>
+---
 
+## 📈 What I'm Working On
 
+```python
+current_goals = {
+    "learning": [
+        "Advanced Selenium WebDriver techniques",
+        "REST API automation with RestAssured",
+        "CI/CD integration with Jenkins",
+        "Performance testing with JMeter"
+    ],
+    "building": [
+        "Robust test automation frameworks",
+        "API testing suite",
+        "Data-driven testing solutions"
+    ],
+    "improving": [
+        "Code quality and maintainability",
+        "Test coverage and reliability",
+        "Problem-solving skills"
+    ]
+}
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat" alt="x9code" />
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+I'm always interested in connecting with fellow testers, developers, and tech enthusiasts!  
+Feel free to reach out if you want to:
+
+💼 Discuss testing strategies and automation  
+🚀 Collaborate on open-source projects  
+☕ Chat about tech, tools, or career advice  
+🐛 Share cool bug stories (we all have them!)
+
+<br>
+
+**Let's build quality software together! 🎯**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  ### Thanks for stopping by! 😄
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
+</div>
