@@ -13,7 +13,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakrana430/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
-  ![Visitor Map](https://visitorbadge.io/api/visitors?path=x9code&label=Visitors&labelColor=%23007acc&countColor=%23d9e3f0&style=flat-square)
+  ![Visitors](https://visitorbadge.io/api/visitors?path=x9code&label=Visitors&labelColor=%23007acc&countColor=%23d9e3f0&style=flat-square)
+
   
 </div>
 
