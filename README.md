@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Deepak%20Kumar%20Rana&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🔍%20Software%20Tester%20|%20🤖%20Automation%20Engineer&reversal=false&textBg=false&fontColor=000000&descAlign=50&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Deepak%20Kumar%20Rana&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🔍%20Software%20Tester%20|%20🤖%20Automation%20Engineer&reversal=false&textBg=false&descAlign=50&descAlignY=55&descSize=24"/>
 </div>
+
 <div align="center">
-  
- <!-- <h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deepak</h1>
-  
-  ### 🔍 Software Tester | 🤖 Automation Engineer | 💻 MCA Graduate-->
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Breaking+Things+Since+Day+One+💥;Quality+is+not+an+act%2C+it's+a+habit+✨;Automating+the+Boring+Stuff+🚀;Java+%7C+Selenium+%7C+TestNG+%7C+SQL;Building+Robust+Test+Frameworks+⚡" alt="Typing SVG" />
   
@@ -16,7 +13,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakrana430/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=x9code&label=Profile%20Views&color=0e75b6&style=flat-square)
-  
+  ![Visitor Map](https://visitorbadge.io/api/visitors?path=x9code&label=Visitors&labelColor=%23007acc&countColor=%23d9e3f0&style=flat-square)
   
 </div>
 
@@ -92,6 +89,31 @@ public class Deepak extends SoftwareTester {
 
 ---
 
+## 📊 Skill Levels
+
+<div align="center">
+
+**Core Testing Skills**
+
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-95%25-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-90%25-DC143C?style=flat-square&logo=testng&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-85%25-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-88%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</div>
+
+```text
+Selenium WebDriver    ████████████████████░   95%
+TestNG                ███████████████████░░   90%
+API Testing (Postman) █████████████████░░░░   85%
+SQL (MySQL/Oracle)    ███████████████████░░   90%
+Java                  ██████████████████░░░   88%
+Manual Testing        ████████████████████░   95%
+```
+
+---
+
 ## 💼 Featured Projects
 
 <div align="center">
@@ -120,10 +142,10 @@ public class Deepak extends SoftwareTester {
       <h3 align="center">🧪 Test Automation Framework</h3>
       <br>
       <p align="center">
-        <a  href="https://github.com/x9code/HybridAutomationFramework" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        <a href="https://github.com/x9code/HybridAutomationFramework" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        </p>
+      </p>
       <p align="center">
         A comprehensive automation framework built with Java, Selenium, and TestNG, featuring data-driven testing, parallel execution, and detailed reporting capabilities.
       </p>
@@ -153,8 +175,63 @@ public class Deepak extends SoftwareTester {
 </div>
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x9code&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x9code&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x9code/x9code/output/github-contribution-grid-snake.svg">
+</picture>
+
+<details>
+<summary>📌 Note: Setting up Snake Animation</summary>
+<br>
+
+To enable the snake animation, you need to set up a GitHub Action:
+
+1. Create `.github/workflows/snake.yml` in your repository
+2. Add the following code:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: x9code
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Enable GitHub Pages from the `output` branch
+4. Run the workflow manually once from Actions tab
+
+</details>
 
 ---
 
@@ -201,11 +278,61 @@ current_goals = {
 
 ---
 
+## 📝 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+<summary>📌 Note: Setting up Recent Activity</summary>
+<br>
+
+To enable recent activity updates:
+
+1. Create `.github/workflows/update-readme.yml`
+2. Add this code:
+
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. The activity list will auto-update between the comments in your README
+
+</details>
+
+---
+
 ## 💬 Random Dev Quote
 
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 </div>
 
@@ -236,6 +363,6 @@ Feel free to reach out if you want to:
   
   ### Thanks for stopping by! 😄
   
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
 </div>
