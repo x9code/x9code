@@ -167,10 +167,10 @@ Manual Testing        ███████████████████�
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x9code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=tokyonight" alt="GitHub Streak"/>
