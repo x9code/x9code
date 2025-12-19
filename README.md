@@ -206,14 +206,14 @@ Manual Testing        ███████████████████�
 </div>
 
 ---
-
-## 🎵 Currently Vibing To
+<!--
+ ## 🎵 Currently Vibing To
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v772c472n2ddhxpbrbuiy3jmgi&cover_image=true&theme=novatorem&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
   </a>
-</div>
+</div> -->
 
 ---
 
