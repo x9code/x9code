@@ -172,9 +172,7 @@ Manual Testing        ███████████████████�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x9code&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </div>-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x9code&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=x9code&hide_border=true&background=45%2C39006F%2C714BFF)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x9code&theme=tokyonight" alt="Profile Summary"/>
