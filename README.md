@@ -8,12 +8,11 @@
 
 ## About Me
 
-MCA graduate with a strong foundation in **software testing and test automation**.  
-Experienced in **manual and automation testing**, with hands-on exposure to real-world projects.  
-Focused on building **reliable, maintainable, and scalable automation frameworks**.
+MCA graduate with a strong foundation in **software testing and test automation**. Experienced in **manual and automation testing**, with hands-on exposure to real-world projects. Focused on building **reliable, maintainable, and scalable automation frameworks**.
 
 ---
 
+## SKILLS AND TOOLS
 | Category                  | Skills                                                                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Languages**             | Java, SQL, JavaScript (basic), HTML, CSS                                                                                                         |
@@ -21,21 +20,13 @@ Focused on building **reliable, maintainable, and scalable automation frameworks
 | **Frameworks & Concepts** | Page Object Model (POM), Data-Driven Testing, Behavior Driven Development (BDD – Learning), Gherkin Feature Files, SDLC, STLC, Defect Life Cycle |
 | **Tools**                 | Git, GitHub, Jira, IntelliJ IDEA, Eclipse, VS Code                                                                                               |
 
+---
 
-## Projects
-
-### Test Automation Framework
-**Tech:** Java, Selenium, TestNG  
-- Designed a hybrid automation framework using POM
-- Implemented data-driven testing and TestNG listeners
-- Supported parallel execution and structured reporting  
-🔗 https://github.com/x9code/HybridAutomationFramework
-
-### Smart City Management System
-**Tech:** React, Spring Boot, REST API  
-- Integrated multiple city services into a single platform
-- Worked on functional validation and API testing scenarios  
-🔗 https://github.com/x9code/Smart_City
+## PROJECTS
+| Project Name                     | Description                                                                                                                    | Tech Stack                       | Repository                                                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Test Automation Framework**    | Hybrid automation framework with Page Object Model, data-driven testing, TestNG listeners, and support for scalable execution. | Java, Selenium WebDriver, TestNG | [https://github.com/x9code/HybridAutomationFramework](https://github.com/x9code/HybridAutomationFramework) |
+| **Smart City Management System** | Integrated platform connecting multiple city services with functional and API validation exposure.                             | React, Spring Boot, REST APIs    | [https://github.com/x9code/Smart_City](https://github.com/x9code/Smart_City)                               |
 
 ---
 
