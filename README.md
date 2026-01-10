@@ -14,44 +14,13 @@ Focused on building **reliable, maintainable, and scalable automation frameworks
 
 ---
 
-## Technical Skills
+| Category                  | Skills                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**             | Java, SQL, JavaScript (basic), HTML, CSS                                                                                                         |
+| **Testing & Automation**  | Selenium WebDriver, TestNG, JUnit, Postman, Manual Testing, Cucumber (BDD – Learning)                                                            |
+| **Frameworks & Concepts** | Page Object Model (POM), Data-Driven Testing, Behavior Driven Development (BDD – Learning), Gherkin Feature Files, SDLC, STLC, Defect Life Cycle |
+| **Tools**                 | Git, GitHub, Jira, IntelliJ IDEA, Eclipse, VS Code                                                                                               |
 
-**Languages**
-- Java
-- SQL
-- JavaScript (basic)
-- HTML, CSS
-
-**Testing & Automation**
-- Selenium WebDriver
-- TestNG
-- JUnit
-- Postman (API Testing)
-- Manual Testing
-- **Cucumber (BDD – Learning)**
-
-**Frameworks & Concepts**
-- Page Object Model (POM)
-- Data-Driven Testing
-- **Behavior Driven Development (BDD – Learning)**
-- Gherkin Feature Files
-- SDLC & STLC
-- Defect Life Cycle
-- Test Case Design Techniques
-
-**Databases**
-- MySQL
-- PostgreSQL
-- Oracle (basic)
-
-**Tools**
-- Git & GitHub
-- Jira
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-
----
 
 ## Projects
 
