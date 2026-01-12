@@ -2,8 +2,9 @@
 **Software Tester | Automation Engineer**
 
 🔗 LinkedIn: [Deepak Kumar Rana](https://www.linkedin.com/in/deepak-6753z)  
-📧 Email: contact.deepakrana.work@gmail.com  
+🔗 Email: contact.deepakrana.work@gmail.com  
 🔗 Insta: [Deepak](https://www.instagram.com/deepakrana430) 
+🔗 Portfolio: [website](https://portfolio-deepak-nine.vercel.app/)
 
 ---
 
