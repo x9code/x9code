@@ -34,7 +34,6 @@ MCA graduate with a strong foundation in **software testing and test automation*
 ## Currently Learning
 - Cucumber BDD Framework
 - Writing Gherkin Feature Files
-- Advanced Selenium WebDriver
 - REST API Automation (RestAssured)
 - CI/CD with Jenkins
 - Performance Testing (JMeter)
@@ -45,7 +44,7 @@ MCA graduate with a strong foundation in **software testing and test automation*
 - QA Engineer
 - Test Automation Engineer
 - Software Test Engineer
-
+- DevOps
 ---
 
 *Open to collaboration, learning opportunities, and professional discussions.*
