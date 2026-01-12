@@ -1,8 +1,9 @@
 # Deepak Kumar Rana  
 **Software Tester | Automation Engineer**
 
-🔗 LinkedIn: https://www.linkedin.com/in/deepak-6753z  
+🔗 LinkedIn: [Deepak Kumar Rana](https://www.linkedin.com/in/deepak-6753z)  
 📧 Email: contact.deepakrana.work@gmail.com  
+🔗 Insta: [Deepak](https://www.instagram.com/deepakrana430) 
 
 ---
 
@@ -17,7 +18,7 @@ MCA graduate with a strong foundation in **software testing and test automation*
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Languages**             | Java, SQL, JavaScript (basic), HTML, CSS                                                                                                         |
 | **Testing & Automation**  | Selenium WebDriver, TestNG, JUnit, Postman, Manual Testing, Cucumber (BDD – Learning)                                                            |
-| **Frameworks & Concepts** | Page Object Model (POM), Data-Driven Testing, Behavior Driven Development (BDD – Learning), Gherkin Feature Files, SDLC, STLC, Defect Life Cycle |
+| **Frameworks & Concepts** | Page Object Model (POM), Data-Driven Testing, Behavior Driven Development (BDD – Basics), Gherkin Feature Files, SDLC, STLC, Defect Life Cycle |
 | **Tools**                 | Git, GitHub, Jira, IntelliJ IDEA, Eclipse, VS Code                                                                                               |
 
 ---
