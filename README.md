@@ -1,7 +1,7 @@
 # Deepak Kumar Rana  
 **Software Tester | Automation Engineer**
 
- [LinkedIn](https://www.linkedin.com/in/deepak-6753z)  |   [Email](contact.deepakrana.work@gmail.com)  | 
+ [LinkedIn](https://www.linkedin.com/in/deepak-6753z)  |   [Email](https://mail.google.com/mail/?view=cm&fs=1&to=contact.deepakrana.work@gmail.com)  | 
  [Instagram](https://www.instagram.com/deepakrana430)   |   [Portfolio](https://portfolio-deepak-nine.vercel.app/) 
 
 
